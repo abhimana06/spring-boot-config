@@ -19,6 +19,6 @@ db:
 
 management.endpoints.web.exposure.include: "*"
 spring.cloud.config.uri: http://localhost:8888 // local configuration
-spring.cloud.config.uri: https://github.com/abhimana06
+spring.cloud.config.uri: https://github.com/abhimana06/spring-cloud-config
 spring.application.name: spring-boot-config
 
